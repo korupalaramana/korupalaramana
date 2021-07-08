@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **python and cryptography**
 
-- 📝 I regularly post about aptitude [https://www.instagram.com/math_mastery/](https://www.instagram.com/math_mastery/)
+- 📝 I regularly post about aptitude [math_mastery](https://www.instagram.com/math_mastery/)
 
 - 💬 Ask me about **mathematics**
 
